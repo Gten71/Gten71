@@ -1,4 +1,4 @@
-#:)
+
 <h3 align="center">i wanna be a nice android developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
