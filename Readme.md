@@ -1,5 +1,5 @@
 
-<h3 align="center">I want to work as a Android developer
+<h3 align="center">I want to work
 
 <h3 align="left">Stats:</h3>
 <p align="left"> </p>
